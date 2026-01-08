@@ -1,4 +1,4 @@
-# なんかいい感じに～
+# なんかいい感じに
 https://tamagomata.github.io
 
 # メモ 
