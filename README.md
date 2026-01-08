@@ -1,5 +1,5 @@
 # なんかいい感じに～
 https://tamagomata.github.io
 
-# メモ a
+# メモ 
 - https://hype4.academy/tools/glassmorphism-generator
