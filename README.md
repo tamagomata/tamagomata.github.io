@@ -2,4 +2,4 @@
 https://tamagomata.github.io
 
 # メモ 
-- https://hype4.academy/tools/glassmorphism-generator
+- [がらすのやつ](https://hype4.academy/tools/glassmorphism-generator)
