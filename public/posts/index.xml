@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Posts on tamagomata</title>
+		<link>https://tamagomata.github.io/posts/</link>
+		<description>Recent content in Posts on tamagomata</description>
+		<generator>Hugo -- 0.154.4</generator>
+		<language>ja</language>
+		<lastBuildDate>Sat, 17 Jan 2026 18:39:33 +0900</lastBuildDate>
+		<atom:link href="https://tamagomata.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+	</channel>
+</rss>

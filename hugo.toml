@@ -1,0 +1,39 @@
+baseURL = "https://tamagomata.github.io/"
+languageCode = "ja"
+title = "tamagomata"
+theme = "hermit-v2"
+
+defaultContentLanguage = "ja"
+enableEmoji = true
+
+[params]
+homeSubtitle = "root@kali:~# like appl_sci form_sci ; I am mainly studying web security."
+homeSubtitleTypewriter = true
+homeSubtitlePrinter = true   # ← カーソル点滅用
+usesAnimation = true         # ← フェードやアニメーション用
+scrollToTop = true
+relatedPosts = true
+code_copy_button = true
+shareSocial = true
+
+  [params.author]
+    name = "tamagomata"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[params.socialLinks]]
+name = "github"
+url = "https://github.com/tamagomata"
+
+[[params.socialLinks]]
+name = "x"
+url = "https://twitter.com/tamagomata"

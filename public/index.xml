@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>tamagomata</title>
+		<link>https://tamagomata.github.io/</link>
+		<description>Recent content on tamagomata</description>
+		<generator>Hugo -- 0.154.4</generator>
+		<language>ja</language>
+		<lastBuildDate>Sat, 17 Jan 2026 18:39:33 +0900</lastBuildDate>
+		<atom:link href="https://tamagomata.github.io/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>About</title>
+			<link>https://tamagomata.github.io/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>tamagomata</author><guid>https://tamagomata.github.io/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="tamagomata">tamagomata<a href="#tamagomata" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>I am currently focusing my studies on web security.</p>
+<hr>
+<h2 id="current-interests">Current Interests<a href="#current-interests" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Web Security</li>
+<li>Bug Bounty</li>
+<li>CTF</li>
+</ul>
+<hr>
+<h2 id="links">Links<a href="#links" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>GitHub: <a href="https://github.com/tamagomata">https://github.com/tamagomata</a></li>
+<li>X (Twitter): <a href="https://x.com/protamago">https://x.com/protamago</a></li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
