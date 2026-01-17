@@ -16,6 +16,8 @@ relatedPosts = true
 code_copy_button = true
 shareSocial = true
 
+footerCopyright = ""
+
   [params.author]
     name = "tamagomata"
 
