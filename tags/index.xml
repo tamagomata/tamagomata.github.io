@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Tags on tamagomata</title>
+		<link>https://tamagomata.github.io/tags/</link>
+		<description>Recent content in Tags on tamagomata</description>
+		<generator>Hugo -- 0.154.4</generator>
+		<language>ja</language>
+		<lastBuildDate>Sat, 17 Jan 2026 18:39:33 +0900</lastBuildDate>
+		<atom:link href="https://tamagomata.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>Untagged</title>
+			<link>https://tamagomata.github.io/tags/untagged/</link>
+			<pubDate>Sat, 17 Jan 2026 18:39:33 +0900</pubDate><author>tamagomata</author><guid>https://tamagomata.github.io/tags/untagged/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
+		</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tamagomata.github.io/posts/</loc>
+    <lastmod>2026-01-17T18:39:33+09:00</lastmod>
+  </url><url>
+    <loc>https://tamagomata.github.io/tags/</loc>
+    <lastmod>2026-01-17T18:39:33+09:00</lastmod>
+  </url><url>
+    <loc>https://tamagomata.github.io/</loc>
+    <lastmod>2026-01-17T18:39:33+09:00</lastmod>
+  </url><url>
+    <loc>https://tamagomata.github.io/tags/untagged/</loc>
+    <lastmod>2026-01-17T18:39:33+09:00</lastmod>
+  </url><url>
+    <loc>https://tamagomata.github.io/about/</loc>
+  </url><url>
+    <loc>https://tamagomata.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tamagomata.github.io/writeups/</loc>
+  </url>
+</urlset>
