@@ -11,4 +11,4 @@ tags:
 ## 2026
 
 - **2026-01-15**  
-  [USBから直でKali Linuxを動かした"かった"話](https://qiita.com/tamagomata/items/87ad718869dd8c13f7cf)
+  [USBからKali Linuxをやりたい人の奮闘記](https://qiita.com/tamagomata/items/87ad718869dd8c13f7cf)
