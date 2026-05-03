@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tamagomata.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-17T18:39:33+09:00</lastmod>
   </url><url>
-    <loc>https://tamagomata.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-17T18:39:33+09:00</lastmod>
   </url><url>
-    <loc>https://tamagomata.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-17T18:39:33+09:00</lastmod>
   </url><url>
-    <loc>https://tamagomata.github.io/tags/untagged/</loc>
+    <loc>http://localhost:1313/tags/untagged/</loc>
     <lastmod>2026-01-17T18:39:33+09:00</lastmod>
   </url><url>
-    <loc>https://tamagomata.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://tamagomata.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://tamagomata.github.io/writeups/</loc>
+    <loc>http://localhost:1313/writeups/</loc>
   </url>
 </urlset>

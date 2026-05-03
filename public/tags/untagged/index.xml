@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Untagged on tamagomata</title>
-		<link>https://tamagomata.github.io/tags/untagged/</link>
+		<link>http://localhost:1313/tags/untagged/</link>
 		<description>Recent content in Untagged on tamagomata</description>
 		<generator>Hugo -- 0.154.4</generator>
 		<language>ja</language>
 		<lastBuildDate>Sat, 17 Jan 2026 18:39:33 +0900</lastBuildDate>
-		<atom:link href="https://tamagomata.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>Posts</title>
-			<link>https://tamagomata.github.io/posts/</link>
-			<pubDate>Sat, 17 Jan 2026 18:39:33 +0900</pubDate><author>tamagomata</author><guid>https://tamagomata.github.io/posts/</guid>
+			<link>http://localhost:1313/posts/</link>
+			<pubDate>Sat, 17 Jan 2026 18:39:33 +0900</pubDate><author>tamagomata</author><guid>http://localhost:1313/posts/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h2 id="2026">2026<a href="#2026" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
